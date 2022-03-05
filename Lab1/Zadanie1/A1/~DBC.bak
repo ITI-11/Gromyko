@@ -1,0 +1,13 @@
+[ODBC 32 bit Data Sources]
+База данных MS Access=Microsoft Access Driver (*.mdb) (32 bit)
+Файлы Excel=Microsoft Excel Driver (*.xls) (32 bit)
+Файлы dBASE=Microsoft dBase Driver (*.dbf) (32 bit)
+TehnoPro=SQL Server (32 bit)
+[База данных MS Access]
+Driver32=C:\Windows\system32\odbcjt32.dll
+[Файлы Excel]
+Driver32=C:\Windows\system32\odbcjt32.dll
+[Файлы dBASE]
+Driver32=C:\Windows\system32\odbcjt32.dll
+[TehnoPro]
+Driver32=C:\Windows\system32\SQLSRV32.dll
